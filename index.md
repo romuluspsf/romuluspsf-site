@@ -1,7 +1,9 @@
 <p align="center">
   <img src="IMG_7829.jpeg" alt="Romulus PSF Logo" width="300">
 </p>
-
+<br>
+<hr>
+<br>
 
 ---
 
