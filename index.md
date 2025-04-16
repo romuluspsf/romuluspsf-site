@@ -58,9 +58,11 @@ Whether you’d like to donate, volunteer, or simply show support, there are man
 
 👉 [Contact us](docs/contact.md) to learn more.
 
+---
+
 ## Public Safety Updates
 
-Stay connected with our local departments on Facebook.
+Stay connected with our local POlice and Fire Departments on Facebook.
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
