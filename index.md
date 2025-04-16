@@ -1,3 +1,4 @@
+![Romulus PSF Logo](IMG_7829.jpeg)
 ---
 layout: default
 title: Welcome
