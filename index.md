@@ -20,7 +20,7 @@ nav_order: 1
   <a href="programs.html" style="background-color:#004080; color:white; padding:1rem 1.5rem; border-radius:8px; text-decoration:none;">Explore Our Programs</a>
   <a href="volunteer.html" style="background-color:#006400; color:white; padding:1rem 1.5rem; border-radius:8px; text-decoration:none;">Become a Volunteer</a>
   <a href="signup.html" style="background-color:#8B0000; color:white; padding:1rem 1.5rem; border-radius:8px; text-decoration:none;">Join Our Email List</a>
-  <a href="donate.html" style="background-color:#FFA500; color:black; padding:1rem 1.5rem; border-radius:8px; text-decoration:none;">Donate Today</a>
+  <a href="donate.md" style="background-color:#FFA500; color:black; padding:1rem 1.5rem; border-radius:8px; text-decoration:none;">Donate Today</a>
 </div>
 
 ---
