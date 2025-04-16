@@ -203,3 +203,9 @@ compress_html:
   profile: false
   # ignore:
   #   envs: all
+
+
+title: Romulus Public Safety Foundation
+description: Supporting Romulus First Responders through community programs, outreach, and fundraising.
+url: "https://romuluspsf.org"
+logo: IMG_7829.jpeg
