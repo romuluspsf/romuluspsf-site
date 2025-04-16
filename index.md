@@ -1,11 +1,14 @@
+---
+title: Home
+nav_order: 1
+---
+
 <p align="center">
   <img src="IMG_7829.jpeg" alt="Romulus PSF Logo" width="300">
 </p>
 <br>
 <hr>
 <br>
-
----
 
 # Welcome to the Romulus Public Safety Foundation
 
