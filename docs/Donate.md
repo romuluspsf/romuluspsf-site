@@ -5,20 +5,20 @@ nav_order: 5
 
 # Support Our Mission
 
-Your donation helps us provide resources, equipment, wellness programs, and community events for the brave first responders of Romulus.
+Your contribution helps us provide resources, equipment, wellness programs, and community events for the brave first responders of Romulus.
 
 Every dollar makes a difference.
 
 ### 🔗 How to Donate
 
-You can donate online via:
+You can donate via:
 
-- **PayPal:** [paypal.me/romuluspsf](https://paypal.me/romuluspsf) *(or insert your real link)*
+- **Online Donations:** [romuluspsf.square.site]([https://romuluspsf.square.site])
 - **Check:** Payable to "Romulus Public Safety Foundation"
 
 **Mail to:**  
 Romulus Public Safety Foundation  
-11165 Olive Street  
+28777 Eureka Road  
 Romulus, MI 48174
 
 > We are a 501(c)(3) nonprofit organization. Donations may be tax deductible.
