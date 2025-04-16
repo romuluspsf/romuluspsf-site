@@ -57,3 +57,9 @@ Stay tuned for updates on our 2025 calendar of events, including National Night 
 Whether you’d like to donate, volunteer, or simply show support, there are many ways to get involved.
 
 👉 [Contact us](docs/contact.md) to learn more.
+
+## Romulus PD Updates
+
+Stay up to date with the latest from the Romulus Police Department.
+
+<div class="fb-page" data-href="https://www.facebook.com/RomulusPD" data-tabs="timeline" data-width="340" data-height="500" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/RomulusPD" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/RomulusPD">Romulus Police Department</a></blockquote></div>
