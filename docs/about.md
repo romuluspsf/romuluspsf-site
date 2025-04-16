@@ -12,9 +12,26 @@ The Romulus Public Safety Foundation is dedicated to supporting our local first 
 To provide funding, training, and community support that enhances the safety and effectiveness of our first responders.
 
 ## Our History
-Founded in [Year], we’ve been committed to improving public safety in Romulus through innovative programs and outreach.
+Founded in [2017], we’ve been committed to improving public safety in Romulus through innovative programs and outreach.
 
-## Board of Directors
-- **[Name]** – Chairperson
-- **[Name]** – Treasurer
-- **[Name]** – Secretary
+## Board of Trustees
+- **[Bryan O'Connor Briggs]** – Chairperson
+- **[Barbara Rykwaler]** - Vice Chairperson
+- **[Dean Trudeau]** – Treasurer
+- **[Steve Hitchcock]** – Trustee
+- **[Mark Estes]** - Trustee
+- **[Lauren Braden]** - Trustee
+- **[Cathy McCoy]** - Trustee
+
+## Managing Directors
+-**[Romulus Police Chief Robert Pfannes]**
+-**[Romulus Fire Chief Ken Chapman]**
+
+## Administrators
+-**[Romulus Fire Department Administrative Assistant Rachel Vitt}]**
+-**[Romulus Police Lieutenant Eric Harris]**
+
+## Corps of Advisors
+-**[POAM Romulus Police Officers Association Union President Daniel Schauble]** - Advisor
+-**[POLC Romulus Union President Lt. Eric Harris]** - Advisor
+_**[Local Union 4126 Romulus Fire Captain John Thiede]** - Advisor
