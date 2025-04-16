@@ -12,6 +12,20 @@ nav_order: 1
 
 # Welcome to the Romulus Public Safety Foundation
 
+---
+
+## 👇 Get Involved
+
+<div style="display: flex; gap: 1rem; flex-wrap: wrap;">
+  <a href="programs.html" style="background-color:#004080; color:white; padding:1rem 1.5rem; border-radius:8px; text-decoration:none;">Explore Our Programs</a>
+  <a href="volunteer.html" style="background-color:#006400; color:white; padding:1rem 1.5rem; border-radius:8px; text-decoration:none;">Become a Volunteer</a>
+  <a href="signup.html" style="background-color:#8B0000; color:white; padding:1rem 1.5rem; border-radius:8px; text-decoration:none;">Join Our Email List</a>
+  <a href="donate.html" style="background-color:#FFA500; color:black; padding:1rem 1.5rem; border-radius:8px; text-decoration:none;">Donate Today</a>
+</div>
+
+---
+
+
 We are a 501(c)(3) nonprofit organization committed to providing resources, training, and community engagement opportunies that help our Romulus public safety personnel thrive and serve at thier best.
 
 Since its inception in November 2017, RPSF has been authorized by the Romulus Police and Fire Departments to seek funding from private sources to support their initiatives and we continue to play a pivotal role in providing support through finanial and other resources that enhance safety initiatives, community outreach, and emergency response capabilities. With generous support from local supporters, we have been able to accomplish incredible milestones, including:
