@@ -58,8 +58,28 @@ Whether you’d like to donate, volunteer, or simply show support, there are man
 
 👉 [Contact us](docs/contact.md) to learn more.
 
-## Romulus PD Updates
+## Public Safety Updates
 
-Stay up to date with the latest from the Romulus Police Department.
+Stay connected with our local departments on Facebook.
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+  <div style="flex: 1; min-width: 300px;">
+    <div class="fb-page" data-href="https://www.facebook.com/RomulusPoliceDepartment" data-tabs="timeline" data-width="340" data-height="500" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+      <blockquote cite="https://www.facebook.com/RomulusPoliceDepartment" class="fb-xfbml-parse-ignore">
+        <a href="https://www.facebook.com/RomulusPoliceDepartment">Romulus Police Department</a>
+      </blockquote>
+    </div>
+  </div>
+
+  <div style="flex: 1; min-width: 300px;">
+    <div class="fb-page" data-href="https://www.facebook.com/romulusfiredepartment" data-tabs="timeline" data-width="340" data-height="500" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+      <blockquote cite="https://www.facebook.com/romulusfiredepartment" class="fb-xfbml-parse-ignore">
+        <a href="https://www.facebook.com/romulusfiredepartment">Romulus Fire Department</a>
+      </blockquote>
+    </div>
+  </div>
+
+</div>
 
 <div class="fb-page" data-href="https://www.facebook.com/RomulusPD" data-tabs="timeline" data-width="340" data-height="500" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/RomulusPD" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/RomulusPD">Romulus Police Department</a></blockquote></div>
