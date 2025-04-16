@@ -5,7 +5,7 @@ nav_order: 5
 
 # Support Our Mission
 
-Your contribution helps us provide resources, equipment, wellness programs, and community events for the brave first responders of Romulus.
+Your contribution to the **Romulus Public Safety Foundation** helps us provide resources, equipment, wellness support, and community events for the brave first responders of Romulus.
 
 Every dollar makes a difference.
 
@@ -13,7 +13,7 @@ Every dollar makes a difference.
 
 You can donate via:
 
-- **Online Donations:** [romuluspsf.square.site]([https://romuluspsf.square.site])
+- **Online Donations:** [romuluspsf.square.site](https://romuluspsf.square.site)
 - **Check:** Payable to "Romulus Public Safety Foundation"
 
 **Mail to:**  
