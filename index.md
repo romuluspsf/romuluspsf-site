@@ -12,7 +12,7 @@ We are a nonprofit organization committed to supporting the first responders who
 
 To provide resources, training, and community engagement opportunities that help our public safety personnel thrive and serve at their best.
 
-## 🚨 Programs & Initiatives
+## 🚨 **Programs** & Initiatives
 
 - **First Responder Grants**
 - **Equipment Upgrades**
@@ -21,7 +21,7 @@ To provide resources, training, and community engagement opportunities that help
 
 👉 [Learn more about our programs](docs/programs.md)
 
-## 📅 Upcoming Events
+## 📅 Upcoming **Events**
 
 Stay tuned for updates on our 2025 calendar of events, including National Night Out, first responder appreciation week, and more.
 
