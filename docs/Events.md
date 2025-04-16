@@ -34,3 +34,6 @@ FST5 was developed in partnership with Common Ground, State of Michigan, and Way
 Celebrate the dedication and hard work of our police, fire, and 911 dispatch teams.
 
 [Check back for more details on upcoming events!]
+
+## 📅 Foundation Calendar
+<iframe src="https://calendar.google.com/calendar/embed?src=d775655ff30545476f399bd36cd059709d9a1848c6eb2482b3758e8096aa3d29%40group.calendar.google.com&ctz=America%2FDetroit" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
