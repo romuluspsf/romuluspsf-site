@@ -8,7 +8,7 @@ nav_order: 1
     <img src="IMG_7829.jpeg" alt="Romulus PSF Logo" style="height:50px; border-radius: 6px;" />
     <span style="font-size: 1.4rem; font-weight: bold;">Romulus Public Safety Foundation</span>
   </div>
-  <a href="donate.html" style="background-color: #FFA500; color: black; padding: 0.5rem 1rem; border-radius: 8px; text-decoration: none; font-weight: bold;">Donate</a>
+  <a href="Donate.html" style="background-color: #FFA500; color: black; padding: 0.5rem 1rem; border-radius: 8px; text-decoration: none; font-weight: bold;">Donate</a>
 </div>
 
 # Welcome to Romulus Public Safety Foundation
@@ -18,10 +18,10 @@ nav_order: 1
 ## 👇 Get Involved
 
 <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
-  <a href="programs.md" style="background-color:#004080; color:white; padding:1rem 1.5rem; border-radius:8px; text-decoration:none;">Explore Our Programs</a>
-  <a href="volunteer.md" style="background-color:#006400; color:white; padding:1rem 1.5rem; border-radius:8px; text-decoration:none;">Become a Volunteer</a>
-  <a href="signup.md" style="background-color:#8B0000; color:white; padding:1rem 1.5rem; border-radius:8px; text-decoration:none;">Join Our Email List</a>
-  <a href="donate.md" style="background-color:#FFA500; color:black; padding:1rem 1.5rem; border-radius:8px; text-decoration:none;">Donate Today</a>
+  <a href="Programs.md" style="background-color:#004080; color:white; padding:1rem 1.5rem; border-radius:8px; text-decoration:none;">Explore Our Programs</a>
+  <a href="Volunteer.md" style="background-color:#006400; color:white; padding:1rem 1.5rem; border-radius:8px; text-decoration:none;">Become a Volunteer</a>
+  <a href="Signup.md" style="background-color:#8B0000; color:white; padding:1rem 1.5rem; border-radius:8px; text-decoration:none;">Join Our Email List</a>
+  <a href="Donate.md" style="background-color:#FFA500; color:black; padding:1rem 1.5rem; border-radius:8px; text-decoration:none;">Donate Today</a>
 </div>
 
 ---
