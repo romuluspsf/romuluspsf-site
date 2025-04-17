@@ -11,7 +11,7 @@ nav_order: 1
   <a href="donate.html" style="background-color: #FFA500; color: black; padding: 0.5rem 1rem; border-radius: 8px; text-decoration: none; font-weight: bold;">Donate</a>
 </div>
 
-# Welcome to the Romulus Public Safety Foundation
+# Welcome to Romulus Public Safety Foundation
 
 ---
 
