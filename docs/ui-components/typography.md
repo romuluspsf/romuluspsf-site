@@ -1,5 +1,6 @@
 ---
 title: Typography
+nav_exclude: true
 parent: UI Components
 nav_order: 1
 ---
