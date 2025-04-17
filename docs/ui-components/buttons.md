@@ -1,5 +1,6 @@
 ---
 title: Buttons
+nav_exclude: true
 parent: UI Components
 nav_order: 2
 ---
