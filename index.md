@@ -3,14 +3,6 @@ title: Home
 nav_order: 1
 ---
 
-<div style="background-color: #004080; color: white; padding: 0.5rem 1rem; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-  <div style="display: flex; align-items: center; gap: 1rem;">
-    <img src="IMG_7829.jpeg" alt="Romulus PSF Logo" style="height:50px; border-radius: 6px;" />
-    <span style="font-size: 1.4rem; font-weight: bold;">Romulus Public Safety Foundation</span>
-  </div>
-<a href="/docs/Donate" style="background-color: #FFA500; color: black; padding: 0.5rem 1rem; border-radius: 8px; text-decoration: none; font-weight: bold;">Donate</a>
-</div>
-
 # Welcome to Romulus Public Safety Foundation
 
 ---
