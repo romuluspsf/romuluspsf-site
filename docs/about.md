@@ -9,7 +9,7 @@ nav_order: 2
     <img src="IMG_7829.jpeg" alt="Romulus PSF Logo" style="height:50px; border-radius: 6px;" />
     <span style="font-size: 1.4rem; font-weight: bold;">Romulus Public Safety Foundation</span>
   </div>
-  <a href="donate.html" style="background-color: #FFA500; color: black; padding: 0.5rem 1rem; border-radius: 8px; text-decoration: none; font-weight: bold;">Donate</a>
+  <a href="docs/donate.html" style="background-color: #FFA500; color: black; padding: 0.5rem 1rem; border-radius: 8px; text-decoration: none; font-weight: bold;">Donate</a>
 </div>
 
 
