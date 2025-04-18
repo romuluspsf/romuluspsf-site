@@ -18,7 +18,7 @@ nav_order: 1
   <a href="/docs/Donate/" style="background-color:#FFA500; color:black; padding:1rem 1.5rem; border-radius:8px; text-decoration:none;">Donate Today</a>
 </div>
 
-<div style="background-color: #f0f8ff; padding: 2rem; border-radius: 8px; margin-bottom: 2rem;">
+<hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
 
 We are a 501(c)(3) nonprofit organization committed to providing resources, training, and community engagement opportunies that help our Romulus public safety personnel thrive and serve at thier best.
 
@@ -28,7 +28,6 @@ Since its inception in November 2017, RPSF has been authorized by the Romulus Po
 - **Supporting First Responders:** Providing resources for commendation ceremonies to acknowledge our police officers and firefighters and public safety workers
 - **Enhancing Community Engagement:** Participating in neighborhood outreach events, and initiatives that strengthen trust between first responders and residents
 - **Developing Corporate Partnerships:** Playing a pivotal role seeking pledge contributions from valued businesses in our community to drive tangible improvements
-</div>
 
 ## 💡 Our Mission
 
