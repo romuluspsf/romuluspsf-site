@@ -4,11 +4,16 @@ title: Events
 nav_order: 4
 ---
 
+## 📅 Foundation Calendar
+<iframe src="https://calendar.google.com/calendar/embed?src=d775655ff30545476f399bd36cd059709d9a1848c6eb2482b3758e8096aa3d29%40group.calendar.google.com&ctz=America%2FDetroit" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+
+<hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
+
 # Upcoming Events & Past Events
 
 We are proud to host and support events that bring our community and first reponders together.
 
----
+<hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
 
 ## National Public Safety Telecommunicators Week
 **Date:** April 13 - 19, 2025
@@ -16,6 +21,8 @@ This week, we proudly celebrate National Public Safety Telecommunicators Week! B
 **Romulus Public Safety Foundation** extends our heartfelt gratitude for our public safety dispatchers. Their service, strength, and sacrifice do not go unnoticed.
 
 Thank a dispatcher today for being the calm in the chaos.
+
+<hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
 
 ## May is Mental Healt Awareness Month
 **Date:** May 1 - 31, 2025
@@ -25,15 +32,18 @@ This month, we recognize the need for mental health resources to our first repon
 
 FST5 was developed in partnership with Common Ground, State of Michigan, and Wayne State University
 
+<hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
+
 ## 🚓 Public Safety Open House  
 **Date:** **TBD** for May or June 2025 
 **Location:** Romulus Fire Station #4  
 **Details:** Join us for station tours, fire truck tours, and meet-and-greets with police officers, firefighters, and dispatchers. Family friendly!
+
+<hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
 
 ## National Police Week, May 11 - 17
 Celebrate the dedication and hard work of our police, fire, and 911 dispatch teams.
 
 [Check back for more details on upcoming events!]
 
-## 📅 Foundation Calendar
-<iframe src="https://calendar.google.com/calendar/embed?src=d775655ff30545476f399bd36cd059709d9a1848c6eb2482b3758e8096aa3d29%40group.calendar.google.com&ctz=America%2FDetroit" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+<hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
