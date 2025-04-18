@@ -28,6 +28,8 @@ Since its inception in November 2017, RPSF has been authorized by the Romulus Po
 - **Developing Corporate Partnerships:** Playing a pivotal role seeking pledge contributions from valued businesses in our community to drive tangible improvements
 
 ---
+background-color: #004080
+---
 
 ## 💡 Our Mission
 
