@@ -7,7 +7,7 @@ nav_order: 1
 
 <img src="/assets/images/AshleyCapital4.jpg" alt="Ashley Capital Building" style="width: 100%; max-height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;" />
 
----
+<hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
 
 ## 👇 Get Involved
 
