@@ -5,3 +5,64 @@
   </div>
   <a href="/docs/Donate/" style="background-color: #FFA500; color: black; padding: 0.5rem 1rem; border-radius: 8px; text-decoration: none; font-weight: bold;">Donate</a>
 </div>
+
+<style>
+  .custom-header {
+    background-color: #004080;
+    color: white;
+    padding: 0.5rem 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+
+  .custom-nav {
+    position: relative;
+  }
+
+  .custom-nav-button {
+    background: none;
+    border: none;
+    color: white;
+    font-size: 1.5rem;
+    cursor: pointer;
+  }
+
+  .custom-nav-links {
+    display: none;
+    position: absolute;
+    right: 0;
+    background-color: #004080;
+    padding: 0.5rem;
+    border-radius: 6px;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .custom-nav-links a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+  }
+
+  .custom-nav.open .custom-nav-links {
+    display: flex;
+  }
+</style>
+
+<div class="custom-header">
+  <div style="display: flex; align-items: center; gap: 1rem;">
+    <img src="/assets/IMG_7829.jpeg" alt="Romulus PSF Logo" style="height:50px; border-radius: 6px;" />
+    <span style="font-size: 1.4rem; font-weight: bold;">Romulus Public Safety Foundation</span>
+  </div>
+
+  <div class="custom-nav" id="customNav">
+    <button class="custom-nav-button" onclick="document.getElementById('customNav').classList.toggle('open')">&#9776;</button>
+    <div class="custom-nav-links">
+      <a href="/docs/Donate/">Donate</a>
+      <a href="/docs/Events/">Events</a>
+      <a href="/docs/ContactUs/">Contact Us</a>
+    </div>
+  </div>
+</div>
