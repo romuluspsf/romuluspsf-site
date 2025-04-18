@@ -1,7 +1,7 @@
 ---
 title: Donate
 nav_order: 5
-permalink: /docs/Donate/
+permalink: /docs/Donate.html
 ---
 
 # Support Our Mission
