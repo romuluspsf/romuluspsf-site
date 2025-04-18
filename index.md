@@ -3,10 +3,9 @@ title: Home
 nav_order: 1
 ---
 
-<img src="/assets/images/AshleyCapital4.jpg" alt="Ashley Capital Building" style="width: 100%; max-height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;" />
-
-
 # Welcome to Romulus Public Safety Foundation
+
+<img src="/assets/images/AshleyCapital4.jpg" alt="Ashley Capital Building" style="width: 100%; max-height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;" />
 
 ---
 
