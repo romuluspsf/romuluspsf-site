@@ -18,7 +18,7 @@ nav_order: 1
   <a href="/docs/Donate/" style="background-color:#FFA500; color:black; padding:1rem 1.5rem; border-radius:8px; text-decoration:none;">Donate Today</a>
 </div>
 
----
+<hr style="border: none; height: 2px; background-color: #004080; margin: 2rem 0;" />
 
 We are a 501(c)(3) nonprofit organization committed to providing resources, training, and community engagement opportunies that help our Romulus public safety personnel thrive and serve at thier best.
 
