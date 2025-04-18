@@ -29,11 +29,13 @@ Since its inception in November 2017, RPSF has been authorized by the Romulus Po
 - **Enhancing Community Engagement:** Participating in neighborhood outreach events, and initiatives that strengthen trust between first responders and residents
 - **Developing Corporate Partnerships:** Playing a pivotal role seeking pledge contributions from valued businesses in our community to drive tangible improvements
 
+<hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
+
 ## 💡 Our Mission
 
 RPSF is a community driven organization that promotes health and safety by supporting our first responder needs through partnerships with residents, businesses, and stakeholders.
 
----
+<hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
 
 ## 🚨 **Programs** & Initiatives
 
@@ -44,7 +46,7 @@ RPSF is a community driven organization that promotes health and safety by suppo
 
 👉 [Learn more about our programs](docs/Programs.md)
 
----
+<hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
 
 ## 📅 Upcoming **Events**
 
@@ -52,7 +54,7 @@ Stay tuned for updates on our 2025 calendar of events, including National Night 
 
 👉 [Check out what's coming up](docs/Events.md)
 
----
+<hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
 
 ## 🤝 Get Involved
 
@@ -60,7 +62,7 @@ Whether you’d like to donate, volunteer, or simply show support, there are man
 
 👉 [Contact Us](docs/ContactUs.md) to learn more.
 
----
+<hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
 
 ## Public Safety Updates
 
@@ -95,3 +97,4 @@ Stay connected with our local Police and Fire Departments on Facebook.
 ---
 
 <div class="fb-page" data-href="https://www.facebook.com/RomulusFD" data-tabs="timeline" data-width="340" data-height="500" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/RomulusFD" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/RomulusFD">Romulus Fire Department</a></blockquote></div>
+<hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
