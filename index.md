@@ -6,6 +6,8 @@ nav_order: 1
 # Welcome to Romulus Public Safety Foundation
 
 <img src="/assets/images/AshleyCapital4.jpg" alt="Ashley Capital Building" style="width: 100%; max-height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;" />
+**February 18, 2025, Check presentation with Ashley Capital, City of Romulus, and Romulus Public Safety Foundation**
+[View the Press Release (PDF)](/assets/pdfs/Public Safety Foundation Ashley  Capital Press Release 2025-01-24.pdf)
 
 <hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
 
