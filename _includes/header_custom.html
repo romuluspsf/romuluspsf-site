@@ -17,6 +17,16 @@
     flex-wrap: wrap;
   }
 
+  .custom-logo-title {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .custom-donate {
+    margin: 0 1rem;
+  }
+
   .custom-nav {
     position: relative;
   }
@@ -38,6 +48,7 @@
     border-radius: 6px;
     flex-direction: column;
     gap: 0.5rem;
+    z-index: 1000;
   }
 
   .custom-nav-links a {
@@ -52,12 +63,15 @@
 </style>
 
 <div class="custom-header">
-  <div style="display: flex; align-items: center; gap: 1rem;">
+  <div class="custom-logo-title">
     <img src="/assets/IMG_7829.jpeg" alt="Romulus PSF Logo" style="height:50px; border-radius: 6px;" />
     <span style="font-size: 1.4rem; font-weight: bold;">Romulus Public Safety Foundation</span>
-<div class="custom-donate">
+  </div>
+
+  <div class="custom-donate">
     <a href="/docs/Donate/" style="background-color: #FFA500; color: black; padding: 0.5rem 1rem; border-radius: 8px; text-decoration: none; font-weight: bold;">Donate</a>
   </div>
+
   <div class="custom-nav" id="customNav">
     <button class="custom-nav-button" onclick="document.getElementById('customNav').classList.toggle('open')">&#9776;</button>
     <div class="custom-nav-links">
