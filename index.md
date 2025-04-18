@@ -43,7 +43,7 @@ RPSF is a community driven organization that promotes health and safety by suppo
 - **Community Outreach Events**
 - **Recognition & Awards**
 
-👉 [Learn more about our programs](docs/programs.md)
+👉 [Learn more about our programs](docs/Programs.md)
 
 ---
 
@@ -57,7 +57,7 @@ Stay tuned for updates on our 2025 calendar of events, including National Night 
 
 Whether you’d like to donate, volunteer, or simply show support, there are many ways to get involved.
 
-👉 [Contact us](docs/contact.md) to learn more.
+👉 [Contact us](docs/Contact Us.md) to learn more.
 
 ---
 
