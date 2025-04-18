@@ -1,5 +1,5 @@
 ---
-title: ContactUs
+title: Contact Us
 nav_order: 6
 ---
 
