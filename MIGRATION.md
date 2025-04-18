@@ -389,9 +389,7 @@ For changes since v0.3.3, the log usually references the merged PR that made the
 - all user-facing text is now customizable; previously, several elements (ex search placeholder) were hardwired into the theme. Now, users can blend custom includes and layouts to internationalize their sites.
 - we've clarified the role of `custom.scss` to be imported last; to allow users to define custom or override variables, we've added a new file `setup.scss`. PR: [#1135]
 
-#### Custom Includes
 
-We've added several custom `_includes` to provide users with more customization options for different site elements. We've also added a section to [Configuration]({% link docs/customization.md %}#override-includes) to outline these.
 
 All of these are opt-in by default; however, **these may be breaking if you have existing `_includes` with the same name**.
 
@@ -409,7 +407,7 @@ In a future (version 1) release, we may rename the custom include files.
 
 We've broken up the default layout (`_layouts/default.html`) into multiple reusable components. This should have no impact on most users; however, it should make it easier to implement custom layouts.
 
-For more, see [Custom layouts and includes]({% link docs/customization.md %}#custom-layouts-and-includes). PR: [#1058].
+
 
 #### Navigation
 
