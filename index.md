@@ -64,46 +64,32 @@ Whether you’d like to donate, volunteer, or simply show support, there are man
 
 Stay connected with our local Police and Fire Departments on Facebook.
 
-<!-- Facebook Page Embeds -->
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
-  <!-- Romulus Police Department -->
-  <div style="flex: 1; min-width: 320px; max-width: 500px;">
-    <div class="fb-page"
-         data-href="https://www.facebook.com/RomulusPoliceDepartment"
-         data-tabs="timeline"
-         data-width=""
-         data-height="500"
-         data-small-header="false"
-         data-adapt-container-width="true"
-         data-hide-cover="false"
-         data-show-facepile="true">
+  <div style="flex: 1; min-width: 300px;">
+    <div class="fb-page" data-href="https://www.facebook.com/RomulusPoliceDepartment" data-tabs="timeline" data-width="340" data-height="500" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
       <blockquote cite="https://www.facebook.com/RomulusPoliceDepartment" class="fb-xfbml-parse-ignore">
         <a href="https://www.facebook.com/RomulusPoliceDepartment">Romulus Police Department</a>
       </blockquote>
     </div>
   </div>
 
-  <!-- Romulus Fire Department -->
-  <div style="flex: 1; min-width: 320px; max-width: 500px;">
-    <div class="fb-page"
-         data-href="https://www.facebook.com/romulusfiredepartment"
-         data-tabs="timeline"
-         data-width=""
-         data-height="500"
-         data-small-header="false"
-         data-adapt-container-width="true"
-         data-hide-cover="false"
-         data-show-facepile="true">
+---
+
+  <div style="flex: 1; min-width: 300px;">
+    <div class="fb-page" data-href="https://www.facebook.com/romulusfiredepartment" data-tabs="timeline" data-width="340" data-height="500" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
       <blockquote cite="https://www.facebook.com/romulusfiredepartment" class="fb-xfbml-parse-ignore">
         <a href="https://www.facebook.com/romulusfiredepartment">Romulus Fire Department</a>
       </blockquote>
     </div>
   </div>
+
 </div>
 
-<!-- Facebook SDK (load once per page, ideally at the bottom) -->
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" 
-        src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v18.0" 
-        nonce="romulusPSF"></script>
+---
+
+<div class="fb-page" data-href="https://www.facebook.com/RomulusPD" data-tabs="timeline" data-width="340" data-height="500" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/RomulusPD" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/RomulusPD">Romulus Police Department</a></blockquote></div>
+
+---
+
+<div class="fb-page" data-href="https://www.facebook.com/RomulusFD" data-tabs="timeline" data-width="340" data-height="500" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/RomulusFD" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/RomulusFD">Romulus Fire Department</a></blockquote></div>
