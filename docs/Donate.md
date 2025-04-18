@@ -10,6 +10,8 @@ Your contribution to the **Romulus Public Safety Foundation** helps us provide r
 
 Every dollar makes a difference.
 
+<hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
+
 ### 🔗 How to Donate
 
 You can donate via:
@@ -23,3 +25,5 @@ Romulus Public Safety Foundation
 Romulus, MI 48174
 
 > We are a 501(c)(3) nonprofit organization. Donations may be tax deductible.
+
+<hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
