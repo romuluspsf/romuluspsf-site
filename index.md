@@ -49,6 +49,7 @@ RPSF is a community driven organization that promotes health and safety by suppo
 ## 📅 Upcoming **Events**
 
 Stay tuned for updates on our 2025 calendar of events, including National Night Out, first responder appreciation week, and more.
+
 👉 [Check out what's coming up](docs/Events.md)
 
 ---
