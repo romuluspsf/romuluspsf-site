@@ -13,7 +13,7 @@ nav_order: 1
   <a href="/docs/Programs.md" style="background-color:#004080; color:white; padding:1rem 1.5rem; border-radius:8px; text-decoration:none;">Explore Our Programs</a>
   <a href="/docs/Volunteer.md" style="background-color:#006400; color:white; padding:1rem 1.5rem; border-radius:8px; text-decoration:none;">Become a Volunteer</a>
   <a href="/docs/Signup.md" style="background-color:#8B0000; color:white; padding:1rem 1.5rem; border-radius:8px; text-decoration:none;">Join Our Email List</a>
-  <a href="/docs/Donate" style="background-color:#FFA500; color:black; padding:1rem 1.5rem; border-radius:8px; text-decoration:none;">Donate Today</a>
+  <a href="/docs/Donate.md" style="background-color:#FFA500; color:black; padding:1rem 1.5rem; border-radius:8px; text-decoration:none;">Donate Today</a>
 </div>
 
 ---
