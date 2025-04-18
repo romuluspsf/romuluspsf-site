@@ -57,7 +57,7 @@ Stay tuned for updates on our 2025 calendar of events, including National Night 
 
 Whether you’d like to donate, volunteer, or simply show support, there are many ways to get involved.
 
-👉 [Contact us](docs/Contact Us.md) to learn more.
+👉 [Contact Us](docs/ContactUs.md) to learn more.
 
 ---
 
