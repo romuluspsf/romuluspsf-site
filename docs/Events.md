@@ -71,7 +71,7 @@ Thank you to our EMS heroes - your commitment makes Romulus a safer, stronger co
 ## Join us in Celebration  - Romulus Juneteenth Celebration, June 21
 The **Romulus Public Safety Foundation** is a proud sponsor of the **City of Romulus Annual Juneteenth Celebration** on **Friday, June 21** - a day of reflection, education, unity, and joy.
 
-Juneteenth commemorates the end of slavery in the United States and honors the enduring spriit, culture, and contributions of African Americans throughout history. We're excited to join our neighbors in celebrating freedom, community, and progress at this meaningful event.
+Juneteenth commemorates the end of slavery in the United States and honors the enduring spirit, culture, and contributions of African Americans throughout history. We're excited to join our neighbors in celebrating freedom, community, and progress at this meaningful event.
 
 Stop by our booth to say hello, learn more about how we support our city's first responders, and enjoy the festivities with us!
 
