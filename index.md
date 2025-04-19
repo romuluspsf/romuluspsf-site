@@ -13,12 +13,13 @@ nav_order: 1
 
 ## 👇 Get Involved
 
-<div style="display: flex; gap: 1rem; flex-wrap: wrap;">
-  <a href="/docs/Programs/" style="background-color:#004080; color:white; padding:1rem 1.5rem; border-radius:8px; text-decoration:none;">Explore Our Programs</a>
-  <a href="/docs/Volunteer/" style="background-color:#006400; color:white; padding:1rem 1.5rem; border-radius:8px; text-decoration:none;">Become a Volunteer</a>
-  <a href="/docs/Signup/" style="background-color:#8B0000; color:white; padding:1rem 1.5rem; border-radius:8px; text-decoration:none;">Join Our Email List</a>
-  <a href="/docs/Donate/" style="background-color:#FFA500; color:black; padding:1rem 1.5rem; border-radius:8px; text-decoration:none;">Donate Today</a>
+<div style="display: flex items-center; gap: 0.2rem; flex-wrap: wrap;">
+  <a href="/docs/Volunteer/" style="background-color:#006400; color:white; padding:0.5rem 0.75rem; border-radius:4px; text-decoration:none;">Become a Volunteer</a>
+  <a href="/docs/Signup/" style="background-color:#8B0000; color:white; padding:00.5rem 0.75rem; border-radius:4px; text-decoration:none;">Join Our Email List</a>
+  <a href="/docs/Donate/" style="background-color:#FFA500; color:black; padding:0.5rem 0.75rem; border-radius:4px; text-decoration:none;">Donate Today</a>
+  <a href="/docs/Programs/" style="background-color:#004080; color:white; padding:0.5rem 0.75rem; border-radius:4px; text-decoration:none;">Explore Our Programs</a>
 </div>
+
 
 <hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
 
