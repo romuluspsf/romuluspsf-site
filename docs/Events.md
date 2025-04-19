@@ -62,9 +62,20 @@ Thank you, **Romulus Police Department** - your service does not go unnoticed.
 ## Honoring our Lifesaving Heroes - National EMS Week, May 18 - 24
 During **National EMS Week**, the **Romulus Public Safety Foundation** proudly recognizes the incredible **Emergency Medical Services (EMS)** professionals who serve our community with skill, compassion, and resilience.
 
-From responding to medical emergencies to providing critical care when every second counts, EMS personnel are the lifeline of our public safety system. This week, we solute the dedicated EMT's and paramedics of Romulus who work tirelessly to save lives and bring comfort in times of crisis.
+From responding to medical emergencies to providing critical care when every second counts, EMS personnel are the lifeline of our public safety system. This week, we salute the dedicated EMT's and paramedics of Romulus who work tirelessly to save lives and bring comfort in times of crisis.
 
 Thank you to our EMS heroes - your commitment makes Romulus a safer, stronger community.
+
+<hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
+
+## Join us in Celebration  - Romulus Juneteenth Celebration, June 21
+The **Romulus Public Safety Foundation** is a proud sponsor of the **City of Romulus Annual Juneteenth Celebration** on **Friday, June 21** - a day of reflection, education, unity, and joy.
+
+Juneteenth commemorates the end of slavery in the United States and honors the enduring spriit, culture, and contributions of African Americans throughout history. We're excited to join our neighbors in celebrating freedom, community, and progress at this meaningful event.
+
+Stop by our booth to say hello, learn more about how we support our city's first responders, and enjoy the festivities with us!
+
+Together, we celebrate history - and build a stronger future for Romulus.
 
 <hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
 
