@@ -13,7 +13,7 @@ nav_order: 1
 
 ## 👇 Get Involved
 
-<div style="display: flex items-center; gap: 0.2rem; flex-wrap: wrap;">
+<div style="display: flex; gap: 0.2rem; flex-wrap: wrap;">
   <a href="/docs/Volunteer/" style="background-color:#006400; color:white; padding:0.25rem 1rem; border-radius:4px; text-decoration:none;">Become a Volunteer</a>
   <a href="/docs/Signup/" style="background-color:#8B0000; color:white; padding:0.25rem 1rem; border-radius:4px; text-decoration:none;">Join Our Email List</a>
   <a href="/docs/Donate/" style="background-color:#FFA500; color:black; padding:0.25rem 1rem; border-radius:4px; text-decoration:none;">Donate Today</a>
