@@ -21,7 +21,7 @@ Romulus, MI 48174
 <hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
 
 ## 🤝 Get Involved
-If you're interested in volunteering or donating, please reach out to us at admin@romuluspsf.org or 👉 [learn more about volunteer opportunities](/docs/Volunteer/).
+If you're interested in volunteering or donating, please reach out to us at admin@romuluspsf.org or 👉 [learn more about volunteer opportunities](docs/Volunteer.md).
 
 Please allow 24-48 hours for a email response.
 
