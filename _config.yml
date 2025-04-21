@@ -16,8 +16,8 @@
 title: Romulus Public Safety Foundation
 description: Supporting Romulus First Responders
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://just-the-docs.com" # the base hostname & protocol for your site, e.g. http://example.com
-repository: just-the-docs/just-the-docs # for github-metadata
+url: "https://romuluspsf.org"
+image: /assets/images/social-preview.png
 
 permalink: pretty
 
@@ -201,12 +201,6 @@ compress_html:
   profile: false
   # ignore:
   #   envs: all
-
-
-title: Romulus Public Safety Foundation
-description: Supporting Romulus First Responders through community programs, outreach, and fundraising.
-url: "https://romuluspsf.org"
-logo: IMG_7829.jpeg
 
 include:
   - _includes
