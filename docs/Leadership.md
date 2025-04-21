@@ -1,6 +1,6 @@
 
 ## Board of Trustees
-- [**Bryan O'Connor Briggs**](/assets/pdfs/Bryan OConnor Briggs Bio 2025.pdf) - Chairperson
+- **Bryan O'Connor Briggs** - Chairperson
 - **Barbara Rykwaler** - Vice Chairperson
 - **Dean Trudeau** – Treasurer
 - **Steve Hitchcock** – Trustee
