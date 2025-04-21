@@ -23,9 +23,6 @@ Romulus, MI 48174
 ## 🤝 Get Involved
 If you're interested in volunteering or donating, please reach out to us at admin@romuluspsf.org or 👉 [learn more about volunteer opportunities](/docs/Volunteer.md)
 
-👉 [Learn more about our programs](/docs/Programs.md)
-
-<a href="/docs/Volunteer.html">Learn more about volunteer opportunities.</a> 
 
 Please allow 24-48 hours for a email response.
 
