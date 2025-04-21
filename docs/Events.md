@@ -9,7 +9,7 @@ nav_order: 4
 
 <hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
 
-# Upcoming Events & Past Events
+# Upcoming Events & News
 
 We are proud to host and support events that bring our community and first reponders together.
 
