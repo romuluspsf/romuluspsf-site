@@ -25,7 +25,7 @@ If you're interested in volunteering or donating, please reach out to us at admi
 
 👉 [Learn more about our programs](/docs/Programs/)
 
-<a href="/docs/Volunteer/">Learn more about volunteer opportunities.</a> 
+<a href="/docs/Volunteer.html">Learn more about volunteer opportunities.</a> 
 
 Please allow 24-48 hours for a email response.
 
