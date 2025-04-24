@@ -27,7 +27,7 @@ We are a 501(c)(3) nonprofit organization committed to providing resources, trai
 
 Since its inception in November 2017, RPSF has been authorized by the Romulus Police and Fire Departments to seek funding from private sources to support their initiatives and we continue to play a pivotal role in providing support through finanial and other resources that enhance safety initiatives, community outreach, and emergency response capabilities. With generous support from local supporters, we have been able to accomplish incredible milestones, including:
 
-- **Invensting in Life-Saving Equipment:** Funding new protective gear and essential emergency response tools
+- **Investing in Life-Saving Equipment:** Funding new protective gear and essential emergency response tools
 - **Supporting First Responders:** Providing resources for commendation ceremonies to acknowledge our police officers and firefighters and public safety workers
 - **Enhancing Community Engagement:** Participating in neighborhood outreach events, and initiatives that strengthen trust between first responders and residents
 - **Developing Corporate Partnerships:** Playing a pivotal role seeking pledge contributions from valued businesses in our community to drive tangible improvements
