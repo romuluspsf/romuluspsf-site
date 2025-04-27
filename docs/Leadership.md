@@ -1,3 +1,8 @@
+---
+title: Leadership
+nav_order: 3
+permalink: /docs/Leadership/
+---
 
 ## Board of Trustees
 - **Bryan O'Connor Briggs** - Chairperson
