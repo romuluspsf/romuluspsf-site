@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Leadership
 nav_order: 3
 permalink: /docs/Leadership/
