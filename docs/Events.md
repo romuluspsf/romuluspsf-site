@@ -2,6 +2,7 @@
 layout: default
 title: Events
 nav_order: 4
+permalink: /docs/Events/
 ---
 
 ## 📅 Foundation Calendar
