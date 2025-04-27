@@ -2,6 +2,7 @@
 layout: default
 title: About Us
 nav_order: 2
+permalink: /docs/About/
 ---
 
 # About the Romulus Public Safety Foundation
