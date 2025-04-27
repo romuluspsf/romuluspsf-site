@@ -1,2 +1,5 @@
 User-agent: *
 Disallow: /_includes/
+Allow: /
+
+Sitemap: https://romuluspsf.org/sitemap.xml
