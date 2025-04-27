@@ -1,6 +1,7 @@
 ---
 title: Contact Us
 nav_order: 6
+permalink: /docs/ContactUs/
 ---
 
 # Contact the Romulus Public Safety Foundation
