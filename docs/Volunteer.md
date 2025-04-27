@@ -1,6 +1,8 @@
 ---
+layout: default
 title: Volunteer
 nav_order: 7
+permalink: /docs/Volunteer/
 ---
 
 # Volunteer with Us
