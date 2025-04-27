@@ -1,6 +1,8 @@
 ---
+layout: default
 title: Email Signup
 nav_order: 8
+permalink: /docs/Signup/
 ---
 
 # Stay in the Loop
