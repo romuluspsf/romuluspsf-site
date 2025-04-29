@@ -4,7 +4,7 @@ nav_order: 10
 permalink: /docs/CodeRED/
 ---
 
-# Sign-up for CodeRED Emergency Notification
+# Sign-up for CodeRED Emergency Notifications
 
 CodeRED emergency notification is a communication service available for emergency and non-emergency notifications. CodeRED employs intranet mapping capable of geographic targeting of calls, coupled with a telephone calling system capable of delivering a pre-recorded message directly to homes and businesses at the rate of up to 60,000 calls per hour.
 
@@ -12,7 +12,8 @@ CodeRED emergency notification is a communication service available for emergenc
 
 
 
-## Take a moment now to fill out the appropriate information to be notified by the City of Romulus in the event of emergency situations or critical community alerts. Examples include weather events, evacuation notices, bio-terrorism alerts, boil water notices, and missing child reports.
+## Take a moment now to fill out the appropriate information to be notified by the City of Romulus 
+In the event of emergency situations or critical community alerts - get notified! Examples include weather events, evacuation notices, bio-terrorism alerts, boil water notices, and missing child reports.
 
 
 
