@@ -18,9 +18,11 @@ CodeRED emergency notification is a communication service available for emergenc
 
 <hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
 
-## 🤝 Get Involved
-If you're interested in volunteering or donating, please reach out to us at admin@romuluspsf.org or 👉 [learn more about volunteer opportunities](/docs/Volunteer.html)
+<a href="https://public.coderedweb.com/CNE/en-US/2EF236C329EE" target="_blank" rel="noopener noreferrer">
+  <img src="{{ '/assets/images/CodeRed-Image.png' | relative_url }}" alt="Sign up for CodeRED Alerts" style="max-width: 100%; height: auto; border: 1px solid #ccc; padding: 5px;">
+</a>
 
-
-Please allow 24-48 hours for a email response.
+<p>
+  Click the image above or <a href="https://public.coderedweb.com/CNE/en-US/2EF236C329EE" target="_blank" rel="noopener noreferrer">visit the CodeRED registration page</a> to sign up today.
+</p>
 
