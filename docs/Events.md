@@ -33,7 +33,7 @@ This month, we recognize the need for mental health resources to our first repon
 <hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
 
 ## Saluting our Firefighting Heroes - International Firefighters' Day, May 4th
-The May 4, the **Romulus Public Safety Foundation** invites our community to join us in honoring the courageous men and women of the **Romulus Fire Department** in recognition of **International Firefighter's Day**.
+This May 4, the **Romulus Public Safety Foundation** invites our community to join us in honoring the courageous men and women of the **Romulus Fire Department** in recognition of **International Firefighter's Day**.
 
 From battling flames to saving lives, our firefighters exemplify bravery, selflessness, and unwavering commitment to public safety. Today and everyday, we thank them for answering the call - no matter the hour or danger.
 
@@ -46,7 +46,7 @@ Thank you **Romulus Firefighters** - your courage keeps our community strong.
 ## Honoring our Heroes in Blue - National Police Week, May 11 - 17
 The **Romulus Public Safety Foundation** proudly joins our community in recognizing **National Police Week**, a time to honor the brave men and women of the **Romulus Police Department** who protect and serve with courage, integrity, and unvwavering dedication.
 
-This week, we celebrate their commitment to keeping our neighborhoods save and express our heartfelt gratitude for the sacrifices they make every day. Let's take a moment to thank our officers for their service, remember those who gave their lives in the line of duty, and stand together in support of the thin blue line.
+This week, we celebrate their commitment to keeping our neighborhoods safe and express our heartfelt gratitude for the sacrifices they make every day. Let's take a moment to thank our officers for their service, remember those who gave their lives in the line of duty, and stand together in support of the thin blue line.
 
 Thank you, **Romulus Police Department** - your service does not go unnoticed.
 
@@ -62,7 +62,7 @@ Thank you to our EMS heroes - your commitment makes Romulus a safer, stronger co
 <hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
 
 ## Join us in Celebration  - Romulus Juneteenth Celebration, June 21
-The **Romulus Public Safety Foundation** is a proud sponsor of the **City of Romulus Annual Juneteenth Celebration** on **Friday, June 21** - a day of reflection, education, unity, and joy.
+The **Romulus Public Safety Foundation** is a proud sponsor of the **City of Romulus Annual Juneteenth Celebration** on **Saturday, June 21** - a day of reflection, education, unity, and joy.
 
 Juneteenth commemorates the end of slavery in the United States and honors the enduring spirit, culture, and contributions of African Americans throughout history. We're excited to join our neighbors in celebrating freedom, community, and progress at this meaningful event.
 
