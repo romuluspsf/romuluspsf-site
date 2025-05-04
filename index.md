@@ -3,6 +3,16 @@ title: Home
 nav_order: 1
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YD66KT4FWL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-YD66KT4FWL');
+</script>
+
 # Welcome to Romulus Public Safety Foundation
 
 <img src="/assets/images/AshleyCapital4.jpg" alt="Ashley Capital Building" style="width: 100%; max-height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;" />
