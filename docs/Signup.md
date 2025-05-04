@@ -5,6 +5,16 @@ nav_order: 8
 permalink: /docs/Signup/
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YD66KT4FWL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-YD66KT4FWL');
+</script>
+
 # Stay in the Loop
 
 Sign up to receive updates from the Romulus Public Safety Foundation about events, volunteer opportunities, and news.
