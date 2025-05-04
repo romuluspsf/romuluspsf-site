@@ -5,6 +5,16 @@ nav_order: 3
 permalink: /docs/Leadership/
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YD66KT4FWL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-YD66KT4FWL');
+</script>
+
 ## Board of Trustees
 - **Bryan O'Connor Briggs** - Chairperson
 - **Barbara Rykwaler** - Vice Chairperson
