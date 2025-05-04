@@ -4,6 +4,16 @@ nav_order: 10
 permalink: /docs/CodeRED/
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YD66KT4FWL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-YD66KT4FWL');
+</script>
+
 # Sign-up for CodeRED Emergency Notifications
 
 CodeRED emergency notification is a communication service available for emergency and non-emergency notifications. CodeRED employs intranet mapping capable of geographic targeting of calls, coupled with a telephone calling system capable of delivering a pre-recorded message directly to homes and businesses at the rate of up to 60,000 calls per hour.
