@@ -5,6 +5,16 @@ nav_order: 6
 permalink: /docs/Programs/
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YD66KT4FWL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-YD66KT4FWL');
+</script>
+
 # Our Programs
 
 The Romulus Public Safety Foundation supports a variety of initiatives that benefit and support our dedicated first responders. Our programs are designed to enhance safety, wellness, and engagement between public safety professionals and the public they serve.
