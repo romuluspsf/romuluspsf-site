@@ -4,6 +4,16 @@ nav_order: 4
 permalink: /docs/Donate/
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YD66KT4FWL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-YD66KT4FWL');
+</script>
+
 # Support Our Mission
 
 Your contribution to the **Romulus Public Safety Foundation** helps us provide resources, equipment, wellness support, and community events for the brave first responders of Romulus.
