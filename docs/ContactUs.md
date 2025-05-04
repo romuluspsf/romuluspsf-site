@@ -4,6 +4,16 @@ nav_order: 9
 permalink: /docs/ContactUs/
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YD66KT4FWL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-YD66KT4FWL');
+</script>
+
 # Contact the Romulus Public Safety Foundation
 
 Have questions, want to get involved, or looking to support our mission? We'd love to hear from you!
