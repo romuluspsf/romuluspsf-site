@@ -62,7 +62,7 @@ These communities exceed state averages for racial minorities and areas surround
 
 ## What We're Demanding:
 
- <ol type="1">
+ <ol type="<b>1</b>">
   <li><b>Stop the radioactive shipments - immediately</b></li>
   <li><b>Launch a civil rights and environmental justice investigation</b></li>
   <li><b>Conduct a full health & pollution impact study</b></li>
