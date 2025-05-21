@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Past Events
-permalink: /docs/Events/
+permalink: /docs/PastEvents/
 ---
 
 <!-- Google tag (gtag.js) -->
