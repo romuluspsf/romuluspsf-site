@@ -26,7 +26,7 @@ permalink: /docs/EnvironmentalJustice/
 
 # What's Happening?
 
-Out-of-state radioactive waste is being trucked into <b>Wayne Dispoasl, Inc.,</b> a hazardous waste landfill located in <b>Van Buren Township,</b> just outside of <b>Romulus, Belleville,</b> and <b>Canton Township.</b> Waste has come from sites like Luckey, Ohio and New York linked to nucluear weapons production.
+Out-of-state radioactive waste is being trucked into <b>Wayne Dispoasl, Inc.,</b> a hazardous waste landfill located in <b>Van Buren Township,</b> just outside of <b>Romulus, Belleville,</b> and <b>Canton Township.</b> Waste has come from sites like Luckey, Ohio and New York linked to nucluear weapons production and pose a direct and substantial risk to the safety and health of the public and first responders in the City of Romulus and our neighboring communities.
 
 <hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
 
