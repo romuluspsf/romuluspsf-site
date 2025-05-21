@@ -22,10 +22,10 @@ permalink: /docs/EnvironmentalJustice/
 
 # What's Happening?
 
-Out-of-stae radioactive waste is being trucked into <b>Wayne Dispoasl, Inc.,</b> a hazardous waste landfill located in  <b>Van Buren Township,</b> just outside of <b>Romulus, Belleville,</b> and <b>Canton Township.</b> Waste has come from sites like Luckey, Ohio and New York linked to nucluear weapons production.
+Out-of-stae radioactive waste is being trucked into <b>Wayne Dispoasl, Inc.,</b> a hazardous waste landfill located in <b>Van Buren Township,</b> just outside of <b>Romulus, Belleville,</b> and <b>Canton Township.</b> Waste has come from sites like Luckey, Ohio and New York linked to nucluear weapons production.
 
 # Why We're Speaking Out:
-The <b>Romulus Public Safety Foundation</b> has filed an official <b>environmental justice complaint<b/> with <b>EPA and Michigan EGLE</b> because the landfill's operations unfairly target minority and low-income communities in Wayne County. We are calling for an <b>immediate halt to radioactive waste shipments</b> and a full investigation.
+The <b>Romulus Public Safety Foundation</b> has filed an official <b>environmental justice complaint</b> with <b>EPA and Michigan EGLE</b> because the landfill's operations unfairly target minority and low-income communities in Wayne County. We are calling for an <b>immediate halt to radioactive waste shipments</b> and a full investigation.
 
 # Who is Impacted?
 
