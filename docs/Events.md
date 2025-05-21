@@ -42,26 +42,6 @@ This month, we recognize the need for mental health resources to our first repon
 
 <hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
 
-## Saluting our Firefighting Heroes - International Firefighters' Day, May 4th
-This May 4, the **Romulus Public Safety Foundation** invites our community to join us in honoring the courageous men and women of the **Romulus Fire Department** in recognition of **International Firefighter's Day**.
-
-From battling flames to saving lives, our firefighters exemplify bravery, selflessness, and unwavering commitment to public safety. Today and everyday, we thank them for answering the call - no matter the hour or danger.
-
-Let's show our appreciation for the **Romulus Fire Department** and remember all those who have made the ultimate sacrifice in the line of duty.
-
-Thank you **Romulus Firefighters** - your courage keeps our community strong.
-
-<hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
-
-## Honoring our Heroes in Blue - National Police Week, May 11 - 17
-The **Romulus Public Safety Foundation** proudly joins our community in recognizing **National Police Week**, a time to honor the brave men and women of the **Romulus Police Department** who protect and serve with courage, integrity, and unvwavering dedication.
-
-This week, we celebrate their commitment to keeping our neighborhoods safe and express our heartfelt gratitude for the sacrifices they make every day. Let's take a moment to thank our officers for their service, remember those who gave their lives in the line of duty, and stand together in support of the thin blue line.
-
-Thank you, **Romulus Police Department** - your service does not go unnoticed.
-
-<hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
-
 ## Honoring our Lifesaving Heroes - National EMS Week, May 18 - 24
 During **National EMS Week**, the **Romulus Public Safety Foundation** proudly recognizes the incredible **Emergency Medical Services (EMS)** professionals who serve our community with skill, compassion, and resilience.
 
