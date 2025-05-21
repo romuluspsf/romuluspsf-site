@@ -22,16 +22,16 @@ permalink: /docs/EnvironmentalJustice/
 
 # What's Happening?
 
-Out-of-stae radioactive waste is being trucked into ##Wayne Dispoasl, Inc.,## a hazardous waste landfill located in  <b>Van Buren Township,</b> just outside of ##Romulus, Belleville, and Canton Township.## Waste has come from sites like Luckey, Ohio and New York linked to nucluear weapons production.
+Out-of-stae radioactive waste is being trucked into <b>Wayne Dispoasl, Inc.,</b> a hazardous waste landfill located in  <b>Van Buren Township,</b> just outside of <b>Romulus, Belleville,</b> and <b>Canton Township.</b> Waste has come from sites like Luckey, Ohio and New York linked to nucluear weapons production.
 
 # Why We're Speaking Out:
-The ##Romulus Public Safety Foundation## has filed an official ##environmental justice complaint## with ##EPA and Michigan EGLE## because the landfill's operations unfairly target minority and low-income communities in Wayne County. We are calling for an ##immediate halt to radioactive waste shipments## and a full investigation.
+The <b>Romulus Public Safety Foundation</b> has filed an official <b>environmental justice complaint<b/> with <b>EPA and Michigan EGLE</b> because the landfill's operations unfairly target minority and low-income communities in Wayne County. We are calling for an <b>immediate halt to radioactive waste shipments</b> and a full investigation.
 
 # Who is Impacted?
 
 Communities around theh landfill are majority Black and minority, working-class residents. Here's the breakdown:
 <ul>
-  <li>## Romulus: 53.9% Black and minority residents, 11% poverty rate</li>
+  <li><b>Romulus:</b> 53.9% Black and minority residents, 11% poverty rate</li>
   <li>##Van Buren Township: 38.1% Black and minority residents, 11.4% poverty rate</li>
   <li>##Wayne County:## 51.7% Black and minority residents, 20.1% overall poverty rate</li>
 </ul>
