@@ -15,8 +15,8 @@ nav_order: 1
 
 # Welcome to Romulus Public Safety Foundation
 
-<img src="/assets/images/AshleyCapital4.jpg" alt="Ashley Capital Building" style="width: 100%; max-height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;" />
-**February 18, 2025, Check presentation with Ashley Capital, City of Romulus, and Romulus Public Safety Foundation**
+<img src="/assets/images/IMG_2387.png" alt="Photo of Bryan O'Connor Briggs and theh Honorable Teresa Patton of the 34th District Court" style="width: 100%; max-height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;" />
+**May 20, 2025, Greater Romulus Chamber of Commerce May Business Luncheon & Board Induction with RPSF Chairperson Bryan O'Connor Briggs and the Honorable Teresa Patton of the 34th District Court**
 [View the Press Release (PDF)](/assets/pdfs/Public Safety Foundation Ashley  Capital Press Release 2025-01-24.pdf)
 
 <hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
