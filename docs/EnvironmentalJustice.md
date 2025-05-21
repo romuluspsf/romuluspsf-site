@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EnvironmentalJustice
+title: Environmental Justice
 nav_order: 11
 permalink: /docs/EnvironmentalJustice/
 ---
