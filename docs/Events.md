@@ -62,8 +62,6 @@ Together, we celebrate history - and build a stronger future for Romulus.
 
 <hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
 
-👉 [Check out our Past Events](docs/PastEvents.md)
-
 <p>
   <a href="https://romuluspsf.org/docs/PastEvents/" target="_blank" rel="noopener noreferrer">Check out our Past Events</a>
 </p>
