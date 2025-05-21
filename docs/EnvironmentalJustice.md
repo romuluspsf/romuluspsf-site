@@ -26,7 +26,7 @@ permalink: /docs/EnvironmentalJustice/
 
 # What's Happening?
 
-Out-of-stae radioactive waste is being trucked into <b>Wayne Dispoasl, Inc.,</b> a hazardous waste landfill located in <b>Van Buren Township,</b> just outside of <b>Romulus, Belleville,</b> and <b>Canton Township.</b> Waste has come from sites like Luckey, Ohio and New York linked to nucluear weapons production.
+Out-of-state radioactive waste is being trucked into <b>Wayne Dispoasl, Inc.,</b> a hazardous waste landfill located in <b>Van Buren Township,</b> just outside of <b>Romulus, Belleville,</b> and <b>Canton Township.</b> Waste has come from sites like Luckey, Ohio and New York linked to nucluear weapons production.
 
 <hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
 
@@ -38,7 +38,7 @@ The <b>Romulus Public Safety Foundation</b> has filed an official <b>environment
 
 # Who is Impacted?
 
-Communities around theh landfill are majority Black and minority, working-class residents. Here's the breakdown:
+Communities around the landfill are majority Black and minority, working-class residents. Here's the breakdown:
 <ul>
   <li><b>Romulus:</b> 53.9% Black and minority residents, 11% poverty rate</li>
   <li><b>Van Buren Township:</b> 38.1% Black and minority residents, 11.4% poverty rate</li>
@@ -54,7 +54,7 @@ These communities exceed state averages for racial minorities and areas surround
 <ul>
   <li><b>Wayne County has 6 of Michigan's 8 hazardous waste sites</b></li>
   <li><b>94% of out-of-state waste in Michigan ends up here</b></li>
-  <li>The area ranks in the<b>98th percentile</b> for environmental risk in the state</li>
+  <li>The area ranks in the <b>98th percentile</b> for environmental risk in the state</li>
   <li>Radioactive materials can impact air, soil, and <b>our drinking water</b></li>
 </ul>
 
@@ -74,24 +74,13 @@ These communities exceed state averages for racial minorities and areas surround
 
 ## What You Can Do:
 
-
-
-## 🚓 First Responder Grants
-We provide grants for training, equipment, and community outreach to improve the quality of life and safety for our responders.
-
-<hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
-
-## 🚒 Equipment Upgrades
-Our foundation funds the latest technology and equipment to ensure that first responders are equipped with the best tools available.
+✅Contact your elected officials - <b>demand they stand with us</b>
+✅Attend upcoming public meetings - we'll share details soon
+✅Share this information with your neighbors, friends, and family
+✅Visit romuluspsf.org or follow us on social media for updates
 
 <hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
 
-## 👮 Community Outreach
-We engage with the community through educational programs, local events, and other initiatives designed to foster public safety awareness.
-
-<hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
-
-## 🎖️ Recognition & Appreciation
-We organize and provide resources to recognition events and ceremonies to celebrate outstanding service and heroism in the line of duty. Our foundation celebrates the outstanding work of our first responders through annual recognition events and award ceremonies.
+## "We are not Michigan's dumping ground. We are families, workers, and children who deserve clean air, safe water, and a healthy future."
 
 <hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
