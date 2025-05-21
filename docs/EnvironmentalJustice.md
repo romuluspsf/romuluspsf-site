@@ -89,7 +89,7 @@ These communities exceed state averages for racial minorities and areas surround
 
 The <b>Romulus Public Safety Foundation (RPSF)</b> was established to support the strength, safety, and well-being of our city's public safety divisions - including our <b>police, fire and emergency response personnel</b> - and to advocate for the <b>health and protection of the residents they serve.</b>
 
-Today, we face a public safety threat that goes beyond crime or natural disaster. The contiued approval and disposal of <b>radioactive and hazardous waste</b> from outside Michigan into Wayne County - and specifically in close proximity to the City of Romulus - poses a <b>clear and direct danger to first responders, families, and the long-term resilience of our community.</b>
+Today, we face a public safety threat that goes beyond crime or natural disaster. The continued approval and disposal of <b>radioactive and hazardous waste</b> from outside Michigan into Wayne County - and specifically in close proximity to the City of Romulus - poses a <b>clear and direct danger to first responders, families, and the long-term resilience of our community.</b>
 
 We believe this issue falls squarely within our mission for the following reasons:
  
