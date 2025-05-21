@@ -75,8 +75,11 @@ These communities exceed state averages for racial minorities and areas surround
 ## What You Can Do:
 
 ✅Contact your elected officials - <b>demand they stand with us</b>
+
 ✅Attend upcoming public meetings - we'll share details soon
+
 ✅Share this information with your neighbors, friends, and family
+
 ✅Visit romuluspsf.org or follow us on social media for updates
 
 <hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
