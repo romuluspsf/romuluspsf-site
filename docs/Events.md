@@ -64,4 +64,8 @@ Together, we celebrate history - and build a stronger future for Romulus.
 
 👉 [Check out our Past Events](docs/PastEvents.md)
 
+<p>
+  <a href="https://romuluspsf.org/docs/PastEvents/" target="_blank" rel="noopener noreferrer">Check out our Past Events</a>
+</p>
+
 [Check back for more details on upcoming events!]
