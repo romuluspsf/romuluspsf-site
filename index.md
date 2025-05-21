@@ -15,7 +15,7 @@ nav_order: 1
 
 # Welcome to Romulus Public Safety Foundation
 
-<img src="/assets/images/IMG_2387.png" alt="Photo of Bryan O'Connor Briggs and theh Honorable Teresa Patton of the 34th District Court" style="width: 100%; max-height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;" />
+<img src="/assets/images/IMG_2387.png" alt="Photo of Bryan O'Connor Briggs and the Honorable Teresa Patton of the 34th District Court" style="width: 100%; max-height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;" />
 **May 20, 2025, Greater Romulus Chamber of Commerce May Business Luncheon & Board Induction with RPSF Chairperson Bryan O'Connor Briggs and the Honorable Teresa Patton of the 34th District Court**
 [View the Press Release (PDF)](/assets/pdfs/RPSF Press Release 2025-05-20 GRCC BoD Bryan OConnor Briggs Induction.pdf)
 
