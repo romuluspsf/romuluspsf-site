@@ -84,15 +84,12 @@ These communities exceed state averages for racial minorities and areas surround
 
 <hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
 
-## "We are not Michigan's dumping ground. We are families, workers, and children who deserve clean air, safe water, and a healthy future."
-
-<hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
 
 ## Official Statement: Why the Romulus Public Safety Foundation is Taking Action on Radioactive Waste and Environmental Justice
 
 The <b>Romulus Public Safety Foundation (RPSF)</b> was established to support the strength, safety, and well-being of our city's public safety divisions - including our <b>police, fire and emergency response personnel</b> - and to advocate for the <b>health and protection of the residents they serve.</b>
 
-Today, we face a public safety threat that goes beyone crime or natural desaster. The contiued approval and disposal of <b>radioactive and hazardous waste</b> from outside Michigan into Wayne County - and specifically in close proximity to the City of Romulus - poses a <b>clear and direct danger to first responders, families, and the long-term resilience of our community.</b>
+Today, we face a public safety threat that goes beyond crime or natural disaster. The contiued approval and disposal of <b>radioactive and hazardous waste</b> from outside Michigan into Wayne County - and specifically in close proximity to the City of Romulus - poses a <b>clear and direct danger to first responders, families, and the long-term resilience of our community.</b>
 
 We believe this issue falls squarely within our mission for the following reasons:
  
@@ -101,7 +98,7 @@ We believe this issue falls squarely within our mission for the following reason
   Our first responders may be called to respond to incidents involving hazardous waste spills, contamination, or facility emergencies. Continued radioactive waste operations increase exposure risks, reduce emergency response capacity, and strain local resources that are already stretched thin</li>
    
   <li><b>Environmental Justice and Health Equity:</b>
-  The residents of Romulus and surrounding communities already face some of the <b>hightest environmental burdens</b> in the state. Thedisproportionate placement of hazardous waste sites in majority - Black and minority and working-class communities constitutes a <b>civil rights concern</b> and violates the principles of <b>equal protection and public health justice.</b></li>
+  The residents of Romulus and surrounding communities already face some of the <b>hightest environmental burdens</b> in the state. The disproportionate placement of hazardous waste sites in majority-Black and minority and working-class communities constitutes a <b>civil rights concern</b> and violates the principles of <b>equal protection and public health justice.</b></li>
   <li><b>Emergency Preparedness:</b>
   True public safety begins with <b>prevention.</b> Advocacy to stop the expansion or continuation of radioactive waste disposal is a form of <b>preventative emergency management,</b> which directly supports the safety and sustainability of our local infrastructure and public health systems.</li>
   <li><b>Responsibility to Speak Out:</b>
@@ -109,5 +106,7 @@ We believe this issue falls squarely within our mission for the following reason
 </ol> 
 
 The Romulus Public Safety Foundation will continue to engage with residents, officials, and partner agencies to advocate for an end to the shipment of radioactive waste into our region. We urge the state and federal government to consider the full implications of these decisions - not only for the environment, but for the <b>health, safety, and dignity of every family and first responder in our community.</b>
+
+## "We are not Michigan's dumping ground. We are families, workers, and children who deserve clean air, safe water, and a healthy future."
 
 <hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
