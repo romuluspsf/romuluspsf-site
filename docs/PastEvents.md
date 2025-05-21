@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Events
-nav_order: 5
+title: Past Events
 permalink: /docs/Events/
 ---
 
