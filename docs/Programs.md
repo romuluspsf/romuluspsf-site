@@ -26,7 +26,7 @@ We support physical and mental wellness programs for police officers, firefighte
 
 **2025 Mental Health Initiative - Update**
 
-Thanks to the combined efforts of our Police and Fire Departments, and through the support of our Foundation, we're proud to share that Frontline Strong Together is now an active partner within our public safety divisions.
+Thanks to the combined efforts of our Police and Fire Departments, and through the support of our Foundation, we're proud to share that <a href="https://fst5.org" target="_blank" rel="noopener noreferrer">Frontline Strong Together</a> is now an active partner within our public safety divisions.
 
 FST5 is a mental health program that was built specifically for first responders, by first responders. They offer confidential support, peer-to-peer connections, access to culturally competent mental health professionals, and 24 / 7 resources tailored to the realities of first responders.
 
