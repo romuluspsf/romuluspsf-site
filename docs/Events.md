@@ -16,6 +16,9 @@ permalink: /docs/Events/
 </script>
 # Events & News at Romulus Public Safety Foundation
 
+We are proud to host and support events that bring our community and first reponders together.
+
+Want to get in on the action? We are always looking for volunteers. <a href="https://romuluspsf.org/docs/Volunteer/" target="_blank" rel="noopener noreferrer">Sign-up here!</a>
 <hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
 
 ## 📅 Foundation Calendar
@@ -24,10 +27,6 @@ permalink: /docs/Events/
 <hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
 
 ## Upcoming Events & News
-
-We are proud to host and support events that bring our community and first reponders together.
-
-Want to get in on the action? We are always looking for volunteers. <a href="https://romuluspsf.org/docs/Volunteer/" target="_blank" rel="noopener noreferrer">Sign-up here!</a>
 
 <hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
 
