@@ -14,6 +14,7 @@ permalink: /docs/Leadership/
 
   gtag('config', 'G-YD66KT4FWL');
 </script>
+# Leadership at Romulus Public Safety Foundation
 
 ## Board of Trustees
 - **Bryan O'Connor Briggs** - CEO and Chairperson
