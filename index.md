@@ -63,7 +63,7 @@ RPSF is a community driven organization that promotes health and safety by suppo
 
 ## 📅 Upcoming **Events**
 
-Stay tuned for updates on our 2025 calendar of events, including National Night Out, first responder appreciation week, and more.
+Stay up-to-date on our 2025 initiatives.
 
 👉 [Check out what's coming up](docs/Events.md)
 
@@ -79,7 +79,7 @@ Whether you’d like to donate, volunteer, or simply show support, there are man
 
 ## Public Safety Updates
 
-Stay connected with our local Police and Fire Departments on Facebook.
+Stay connected with our local Police and Fire Departments on Facebook. If Facebook feeds to not appear, please check your browser settings.
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
