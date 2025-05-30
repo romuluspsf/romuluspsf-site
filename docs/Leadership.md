@@ -16,7 +16,7 @@ permalink: /docs/Leadership/
 </script>
 
 ## Board of Trustees
-- **Bryan O'Connor Briggs** - Chairperson
+- **Bryan O'Connor Briggs** - Chairperson and CEO
 - **Barbara Rykwaler** - Vice Chairperson
 - **Dean Trudeau** – Treasurer
 - **Steve Hitchcock** – Trustee
@@ -26,7 +26,7 @@ permalink: /docs/Leadership/
 
 <hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
 
-## Managing Directors
+## Chief Advisors
 - **Romulus Police Chief Robert Pfannes**
 - **Romulus Fire Chief Ken Chapman**
 
