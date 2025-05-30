@@ -21,8 +21,10 @@ Have questions, want to get involved, or looking to support our mission? We'd lo
 <hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
 
 ## 📍 Our Address
-Romulus Public Safety Foundation 
-28777 Eureka Road 
+Romulus Public Safety Foundation
+
+28777 Eureka Road
+
 Romulus, MI 48174
 
 ## 📞 Contact Information
