@@ -28,12 +28,10 @@ Want to get in on the action? We are always looking for volunteers. <a href="htt
 
 <hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
 
-## May is Mental Health Awareness Month, May 1 - 31
-This month, we recognize the need for mental health resources to our first reponders. RPSF and Police and Fire Unions have teamed up to help introduce FST5 Frontline Strong Together to our first responders. FST5 is a crisis and support resource for first responders and their families. Staffed by first responders trained as crisis specialists - people who **understand** duty challenges. They are available day and night.
+## Romulus Resident CPR / AED & Gun Safety Initiative, June 1 - July 31
+The **Romulus Public Safety Foundation** is sponsoring a hands-only CPR / AED and Gun Safety course for Romulus residents on Sunday, August 3rd. The **Romulus Fire Department** will provide a hands-only overview of CPR and how to use an Automated External Defibrillator (AED), equipping participants with life-saving knowledge in the event of a cardiac emergency. Following that, the **Romulus Police Department** will discuss practical tips for safe firearm storage and household gun safety to help reduce the risk of accidents and promote responsible gun ownership. This informative course is a great opportunity for individuals and families to become more prepared and safety-conscious at home and in the community. More information or sign-up.
 
-**If you are experiencing any crisis - work related, substance abuse, depression, relationships, financial or any other, reach out by calling 833-347-8766 (24/7/365). Free and confidential support for FIRST RESPONDERS.**
-
-- FST5 was developed in partnership with Common Ground, State of Michigan, and Wayne State University
+https://romuluspsf.square.site/product/romulus-resident-cpr-aed-gun-safety/5?cs=true&cst=custom
 
 <hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
 
@@ -41,15 +39,6 @@ This month, we recognize the need for mental health resources to our first repon
 **Date:** **TBD** for May to June 2025
 **Location:** **TBD** Romulus
 **Details:** **TBD** Join us! More information soon!
-
-<hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
-
-## Honoring our Lifesaving Heroes - National EMS Week, May 18 - 24
-During **National EMS Week**, the **Romulus Public Safety Foundation** proudly recognizes the incredible **Emergency Medical Services (EMS)** professionals who serve our community with skill, compassion, and resilience.
-
-From responding to medical emergencies to providing critical care when every second counts, EMS personnel are the lifeline of our public safety system. This week, we salute the dedicated EMT's and paramedics of Romulus who work tirelessly to save lives and bring comfort in times of crisis.
-
-Thank you to our EMS heroes - your commitment makes Romulus a safer, stronger community.
 
 <hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
 
