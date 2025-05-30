@@ -45,6 +45,8 @@ Our foundation funds the latest technology and equipment to ensure that first re
 ## 👮 Community Outreach
 We engage with the community through educational programs, local events, and other initiatives designed to foster public safety awareness.
 
+Check out our <a href="https://romuluspsf.org/docs/Events/" target="_blank" rel="noopener noreferrer">Events</a> page.
+
 <hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
 
 ## 🎖️ Recognition & Appreciation
