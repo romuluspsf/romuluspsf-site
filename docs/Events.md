@@ -29,9 +29,7 @@ Want to get in on the action? We are always looking for volunteers. <a href="htt
 <hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
 
 ## Romulus Resident CPR / AED & Gun Safety Initiative, June 1 - July 31
-The **Romulus Public Safety Foundation** is sponsoring a hands-only CPR / AED and Gun Safety course for Romulus residents on Sunday, August 3rd. The **Romulus Fire Department** will provide a hands-only overview of CPR and how to use an Automated External Defibrillator (AED), equipping participants with life-saving knowledge in the event of a cardiac emergency. Following that, the **Romulus Police Department** will discuss practical tips for safe firearm storage and household gun safety to help reduce the risk of accidents and promote responsible gun ownership. This informative course is a great opportunity for individuals and families to become more prepared and safety-conscious at home and in the community. More information or sign-up.
-
-https://romuluspsf.square.site/product/romulus-resident-cpr-aed-gun-safety/5?cs=true&cst=custom
+The **Romulus Public Safety Foundation** is sponsoring a hands-only CPR / AED and Gun Safety course for Romulus residents on Sunday, August 3rd. The **Romulus Fire Department** will provide a hands-only overview of CPR and how to use an Automated External Defibrillator (AED), equipping participants with life-saving knowledge in the event of a cardiac emergency. Following that, the **Romulus Police Department** will discuss practical tips for safe firearm storage and household gun safety to help reduce the risk of accidents and promote responsible gun ownership. This informative course is a great opportunity for individuals and families to become more prepared and safety-conscious at home and in the community. <a href="https://romuluspsf.square.site/product/romulus-resident-cpr-aed-gun-safety/5?cs=true&cst=custom" target="_blank" rel="noopener noreferrer">For more information and sign-up - here!</a>
 
 <hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
 
