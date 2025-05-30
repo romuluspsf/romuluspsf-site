@@ -24,6 +24,12 @@ The Romulus Public Safety Foundation supports a variety of initiatives that bene
 ## 🚒 First Responder Wellness
 We support physical and mental wellness programs for police officers, firefighters, and dispatchers, and their immediate family — including peer support training, wellness check-ins, and professional development resources.
 
+**2025 Mental Health Initiative - Update**
+
+Thanks to the combined efforts of our Police and Fire Departments, and through the support of our Foundation, we're proud to share that Frontline Strong Together is now an active partner within our public safety divisions.
+
+FST5 is a mental health program that was built specifically for first responders, by first responders. They offer confidential support, peer-to-peer connections, access to culturally competent mental health professionals, and 24 / 7 resources tailored to the realities of first responders.
+
 <hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
 
 ## 🚓 First Responder Grants
