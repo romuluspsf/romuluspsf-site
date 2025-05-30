@@ -79,7 +79,7 @@ Whether you’d like to donate, volunteer, or simply show support, there are man
 
 ## Public Safety Updates
 
-Stay connected with our local Police and Fire Departments on Facebook. If Facebook feeds to not appear, please check your browser settings.
+Stay connected with our local Police and Fire Departments on Facebook. If Facebook feeds do not appear below, please check your browser settings.
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
