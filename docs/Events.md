@@ -24,6 +24,8 @@ permalink: /docs/Events/
 
 We are proud to host and support events that bring our community and first reponders together.
 
+Want to get in on the action? We are always looking for volunteers. <a href="https://romuluspsf.org/docs/Volunteer/" target="_blank" rel="noopener noreferrer">Sign-up here!</a>
+
 <hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
 
 ## May is Mental Health Awareness Month, May 1 - 31
