@@ -16,6 +16,8 @@ permalink: /docs/Leadership/
 </script>
 # Leadership at Romulus Public Safety Foundation
 
+<hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
+
 ## Board of Trustees
 - **Bryan O'Connor Briggs** - CEO and Chairperson
 - **Barbara Rykwaler** - Vice Chairperson
@@ -38,8 +40,8 @@ permalink: /docs/Leadership/
 <hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
 
 ## Corps of Advisors
-- **Daniel Schauble, POAM Romulus Police Officers Association Union President** - Advisor
-- **Lt. Eric Harris, POLC Romulus Union President** - Advisor
-- **Captain John Thiede, IAFF L-4126 Romulus Professional Firefighters President** - Advisor
+- **Daniel Schauble, POAM Romulus Police Officers Association Union President**
+- **Lt. Eric Harris, POLC Romulus Union President**
+- **Captain John Thiede, IAFF L-4126 Romulus Professional Firefighters President**
 
 <hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
