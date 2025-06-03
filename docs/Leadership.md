@@ -19,8 +19,8 @@ permalink: /docs/Leadership/
 <hr style="border: none; height: 4px; background-color: #004080; margin: 2rem 0;" />
 
 ## Board of Trustees
-- **Bryan O'Connor Briggs** - CEO and Chairperson
-- **Barbara Rykwaler** - Vice Chairperson
+- **Bryan O'Connor Briggs** - Chairperson
+-                        - Vice Chairperson
 - **Dean Trudeau** – Treasurer
 - **Steve Hitchcock** – Trustee
 - **Mark Estes** - Trustee
